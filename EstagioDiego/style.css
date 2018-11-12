@@ -1,0 +1,11 @@
+.style
+{
+    background-image: url('img/index.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+
+}
+
+.opacity {
+background-color: rgba(0,0,0,0.8);
+}
